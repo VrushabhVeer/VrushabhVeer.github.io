@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.21ccbce8.css",
-    "main.js": "/static/js/main.bb6d42fa.js",
+    "main.js": "/static/js/main.fb8e0efe.js",
     "static/media/HeadphoneZone.png": "/static/media/HeadphoneZone.b57166f80d216831c5ba.png",
     "static/media/BobbiBrown.png": "/static/media/BobbiBrown.73f7a4ccbf6d514785f8.png",
     "static/media/SparkAmerica.png": "/static/media/SparkAmerica.6a7dcff434c53c854223.png",
-    "static/media/vrushabh.jpg": "/static/media/vrushabh.3b0783a4bf905927310c.jpg",
     "static/media/AboutMe.png": "/static/media/AboutMe.187d9969d7215aa3ab29.png",
     "static/media/bro.png": "/static/media/bro.400a855cf4af10040b02.png",
     "static/media/adidas.jpg": "/static/media/adidas.b6d69e3d2047b36f89f7.jpg",
     "static/media/VrushabhVeer.pdf": "/static/media/VrushabhVeer.c304e4c4bae5c34c86e2.pdf",
     "index.html": "/index.html",
     "main.21ccbce8.css.map": "/static/css/main.21ccbce8.css.map",
-    "main.bb6d42fa.js.map": "/static/js/main.bb6d42fa.js.map"
+    "main.fb8e0efe.js.map": "/static/js/main.fb8e0efe.js.map"
   },
   "entrypoints": [
     "static/css/main.21ccbce8.css",
-    "static/js/main.bb6d42fa.js"
+    "static/js/main.fb8e0efe.js"
   ]
 }
