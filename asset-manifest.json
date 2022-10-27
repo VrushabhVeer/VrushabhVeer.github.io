@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21ccbce8.css",
-    "main.js": "/static/js/main.233e266d.js",
+    "main.js": "/static/js/main.86ace7ae.js",
     "static/media/HeadphoneZone.png": "/static/media/HeadphoneZone.b57166f80d216831c5ba.png",
     "static/media/BobbiBrown.png": "/static/media/BobbiBrown.73f7a4ccbf6d514785f8.png",
     "static/media/SparkAmerica.png": "/static/media/SparkAmerica.6a7dcff434c53c854223.png",
@@ -12,10 +12,10 @@
     "static/media/VrushabhVeer.pdf": "/static/media/VrushabhVeer.8fdc9ef816d3220ed0b3.pdf",
     "index.html": "/index.html",
     "main.21ccbce8.css.map": "/static/css/main.21ccbce8.css.map",
-    "main.233e266d.js.map": "/static/js/main.233e266d.js.map"
+    "main.86ace7ae.js.map": "/static/js/main.86ace7ae.js.map"
   },
   "entrypoints": [
     "static/css/main.21ccbce8.css",
-    "static/js/main.233e266d.js"
+    "static/js/main.86ace7ae.js"
   ]
 }
