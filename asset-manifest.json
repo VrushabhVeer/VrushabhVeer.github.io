@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.488b1897.css",
-    "main.js": "/static/js/main.814d3fa0.js",
+    "main.js": "/static/js/main.dd075c41.js",
     "static/media/about.png": "/static/media/about.79a1c3f909135a88cb45.png",
     "static/media/developer.png": "/static/media/developer.15746bbc5afcc0202743.png",
     "static/media/contact.png": "/static/media/contact.6a58bcf571e2ae7f6014.png",
-    "static/media/adidas.png": "/static/media/adidas.27dfd1aa866fa412af7c.png",
+    "static/media/adidas.png": "/static/media/adidas.ab448f48d06451e5046f.png",
     "static/media/cult.png": "/static/media/cult.5adec5b0766788d9cf8c.png",
     "static/media/techcart.png": "/static/media/techcart.643d96ec7743b40013b9.png",
     "static/media/nike.png": "/static/media/nike.b40b6c0d8aca74109feb.png",
@@ -15,10 +15,10 @@
     "static/media/react.png": "/static/media/react.396536ced87da4ba25b4.png",
     "index.html": "/index.html",
     "main.488b1897.css.map": "/static/css/main.488b1897.css.map",
-    "main.814d3fa0.js.map": "/static/js/main.814d3fa0.js.map"
+    "main.dd075c41.js.map": "/static/js/main.dd075c41.js.map"
   },
   "entrypoints": [
     "static/css/main.488b1897.css",
-    "static/js/main.814d3fa0.js"
+    "static/js/main.dd075c41.js"
   ]
 }
