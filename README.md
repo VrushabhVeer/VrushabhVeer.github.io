@@ -25,7 +25,6 @@ The user interface of the website is built using [Chakra UI](https://chakra-ui.c
 
 To start the development server, run the following command:
 
-    
     npm start
 
 ## Features
@@ -36,4 +35,7 @@ To start the development server, run the following command:
 
 ## Visit Url
 URL: `https://vrushabhveer.github.io`
+
+![hero](https://github.com/VrushabhVeer/VrushabhVeer.github.io/assets/99570200/96376520-48e3-435f-868f-0d835fd1526a)
+
 
