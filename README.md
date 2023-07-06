@@ -34,7 +34,7 @@ To start the development server, run the following command:
 3. Highlight my skills and expertise
 
 ## Visit Url
-URL: `https://vrushabhveer.github.io`
+Open your browser and visit: `https://vrushabhveer.github.io`
 
 ![hero](https://github.com/VrushabhVeer/VrushabhVeer.github.io/assets/99570200/96376520-48e3-435f-868f-0d835fd1526a)
 
