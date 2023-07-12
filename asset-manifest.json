@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.a4e9b34f.css",
-    "main.js": "/static/js/main.b42720fb.js",
+    "main.js": "/static/js/main.fe6f8f1a.js",
     "static/media/about.png": "/static/media/about.79a1c3f909135a88cb45.png",
     "static/media/developer.png": "/static/media/developer.15746bbc5afcc0202743.png",
     "static/media/contact.png": "/static/media/contact.6a58bcf571e2ae7f6014.png",
     "static/media/adidas.png": "/static/media/adidas.ab448f48d06451e5046f.png",
     "static/media/cult.png": "/static/media/cult.5adec5b0766788d9cf8c.png",
     "static/media/techcart.png": "/static/media/techcart.643d96ec7743b40013b9.png",
-    "static/media/nike.png": "/static/media/nike.b40b6c0d8aca74109feb.png",
     "static/media/Vrushabh Veer-Resume.pdf": "/static/media/Vrushabh Veer-Resume.0a183b3621c6eb5718d0.pdf",
     "static/media/portfolio.png": "/static/media/portfolio.ce596c36f1e7259ed5ee.png",
+    "static/media/readit.png": "/static/media/readit.ed843bfbc9858d0f7387.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.ff4ba441ec3324145fde.png",
     "static/media/react.png": "/static/media/react.396536ced87da4ba25b4.png",
     "index.html": "/index.html",
     "main.a4e9b34f.css.map": "/static/css/main.a4e9b34f.css.map",
-    "main.b42720fb.js.map": "/static/js/main.b42720fb.js.map"
+    "main.fe6f8f1a.js.map": "/static/js/main.fe6f8f1a.js.map"
   },
   "entrypoints": [
     "static/css/main.a4e9b34f.css",
-    "static/js/main.b42720fb.js"
+    "static/js/main.fe6f8f1a.js"
   ]
 }
