@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a4e9b34f.css",
-    "main.js": "/static/js/main.eda9f0a7.js",
+    "main.js": "/static/js/main.4a191547.js",
     "static/media/about.png": "/static/media/about.79a1c3f909135a88cb45.png",
     "static/media/developer.png": "/static/media/developer.15746bbc5afcc0202743.png",
     "static/media/contact.png": "/static/media/contact.6a58bcf571e2ae7f6014.png",
@@ -11,14 +11,15 @@
     "static/media/Vrushabh Veer-Resume.pdf": "/static/media/Vrushabh Veer-Resume.0a183b3621c6eb5718d0.pdf",
     "static/media/portfolio.png": "/static/media/portfolio.ce596c36f1e7259ed5ee.png",
     "static/media/readit.png": "/static/media/readit.3ba849fc256d59886fbc.png",
+    "static/media/coinvest.png": "/static/media/coinvest.56b0538e843301bf5a22.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.ff4ba441ec3324145fde.png",
     "static/media/react.png": "/static/media/react.396536ced87da4ba25b4.png",
     "index.html": "/index.html",
     "main.a4e9b34f.css.map": "/static/css/main.a4e9b34f.css.map",
-    "main.eda9f0a7.js.map": "/static/js/main.eda9f0a7.js.map"
+    "main.4a191547.js.map": "/static/js/main.4a191547.js.map"
   },
   "entrypoints": [
     "static/css/main.a4e9b34f.css",
-    "static/js/main.eda9f0a7.js"
+    "static/js/main.4a191547.js"
   ]
 }
